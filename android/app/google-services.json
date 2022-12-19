@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809377215638",
+    "project_id": "tbcam-8e183",
+    "storage_bucket": "tbcam-8e183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809377215638:android:9ce9592d6daab6f2aabeb7",
+        "android_client_info": {
+          "package_name": "com.app.tutor1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809377215638-tusu5sfk5rufmo0ln79r0bdk2u0j5vve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY4nTnWMVtR7Sl7z_qfh9YUDbOiWWCjrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809377215638-tusu5sfk5rufmo0ln79r0bdk2u0j5vve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
